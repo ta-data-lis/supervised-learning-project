@@ -67,6 +67,7 @@ Classification
 
 ##### Data Analysis
 Categorical data to numerical data
+
 Imbalanced dataset: Downsampling
 
 ##### Supervised Machinelearning
@@ -74,8 +75,11 @@ Tested models: K-nearest neighbor, LogisticRegression, Decission Tree
 
 ###### Decission Tree:
 Accuracy Score: 88.67%
+
 The accuracy score for the training data is:  90.45 %
+
 The accuracy score for the test data is:  88.67 %
+
 --> no Overfitting
 
 cross validation score (5): 91.55 %, 90.78 %, 88.83 %, 91.50 %, 92.72 %
