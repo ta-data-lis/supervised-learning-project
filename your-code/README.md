@@ -39,7 +39,7 @@ Offer customized car insurances to your client
 Everything done by the robo adviser
 
 
-The robo adviser will analyse your customers and his/her needs. It searchs for the best offer and will send only customized offers to those clients who want a car insurance. Thereby you will increase your conversion rate up to 89%. The key in this matter is focusing on your target group, get rid of customers who are not interested in your product and put all your effort in those clients which need your insurance!
+The robo adviser will analyse your customer and his/her needs. It searchs for the best offer and will send only customized offers to those clients who want a car insurance. Thereby you will increase your conversion rate up to 89%. The key in this matter is focusing on your target group, get rid of customers who are not interested in your product and put all your effort in those clients which need you and your insurance!
 
 <a name="dataset"></a>
 
@@ -52,11 +52,17 @@ The robo adviser will analyse your customers and his/her needs. It searchs for t
 
 ##### Exploratory Data Analysis 
 9,134 rows
+
 23 features ('Customer', 'State', 'Customer Lifetime Value', 'Response', 'Coverage','Education', 'Effective To Date',   'EmploymentStatus', 'Gender','Income', 'Location Code', 'Marital Status', 'Monthly Premium Auto','Months Since Last Claim', 'Months Since Policy Inception','Number of Open Complaints', 'Number of Policies', 'Policy Type','Policy', 'Renew Offer Type', 'Sales Channel', 'Total Claim Amount','Vehicle Class', 'Vehicle Size')
+
 label = Response (Yes/No)
+
 Categorical Types
+
 Imbalanced Dataset
+
 Supervised Machine Learning
+
 Classification
 
 ##### Data Analysis
