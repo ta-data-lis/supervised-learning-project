@@ -65,13 +65,16 @@ Supervised Machine Learning
 
 Classification
 
+
 ##### Data Analysis
 Categorical data to numerical data
 
 Imbalanced dataset: Downsampling
 
+
 ##### Supervised Machinelearning
 Tested models: K-nearest neighbor, LogisticRegression, Decission Tree
+
 
 ###### Decission Tree:
 Accuracy Score: 88.67%
@@ -90,10 +93,12 @@ Precision_score: 57.42 %
 
 <a name="organization"></a>
 
+
 ## Organization
 For organization I used Trello.
 
 <a name="links"></a>
+
 
 ## Links
 
